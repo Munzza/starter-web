@@ -8,7 +8,7 @@ This example is to show the different part of the git reository and varous comma
 
 Sample website with plenty of files for demos
 
-##Deployment
+## Deployment
 
 This is a simple web project
 deployment can be on any web server or even local file system
